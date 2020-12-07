@@ -1,0 +1,1 @@
+{"result": {"name": "Georgy", "score": 900, "max score": 1200}}
